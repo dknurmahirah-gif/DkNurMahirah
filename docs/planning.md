@@ -1,4 +1,4 @@
-# Project Proposal 
+### Project Proposal 
 Build a simple web dashboard that turns Bristol's open air quality and traffic data into easy-to-read maps and charts. Residents, students and commuters can see how clean the air is in their area and choose healthier, less congested routes. 
  
 ### Data Set
