@@ -1,6 +1,8 @@
-# TODO: PROJECT NAME HERE
+# Bristol Air Quality and Traffic Dashboard
 
-TODO: Brief outline of your project describing the dataset and a link to it.
+A simple web dashboard that turns Bristol's open air quality and traffic data into easy-to-read maps and charts, so residents, students and commuters can see how clean the air is in their area and choose healthier, less congested routes.
+
+Dataset: [Open Data Bristol](https://opendata.bristol.gov.uk), published by Bristol City Council under an open licence. It includes air quality readings, traffic and cycle counts, and ward profiles / Quality of Life survey data.
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
