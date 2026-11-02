@@ -3,7 +3,7 @@
 ## Business Case
 
 ### Problem statement
-TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
+Bristol publishes a lot of environmental data, but it is spread across many datasets and is hard for ordinary people to understand. Residents cannot easily see how polluted their area is or when and where the air is cleaner. As a result, people cannot make informed choices about how and where they travel, and the council has no simple way to see where active travel (walking and cycling) is working.
 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.
