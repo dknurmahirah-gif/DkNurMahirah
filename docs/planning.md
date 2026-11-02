@@ -20,6 +20,7 @@ Bristol publishes a lot of environmental data, but it is spread across many data
 - Supports Bristol's smart city and sustainability goals
  
 ### Options Considered 
+
 | Option | Description | Verdict |
 |---|---|---|
 | 0. Do nothing | Data stays on the portal as raw tables | Does not solve the problem |
@@ -31,6 +32,7 @@ Existing alternatives: Bristol City Council air quality web pages and the nation
 
 ### Cost
 *These are estimates based on assumptions for planning purposes.*
+
 | Option | Setup cost | Yearly running cost | Main items |
 |---|---|---|---|
 | 0. Do nothing | £0 | £0 | None |
@@ -39,6 +41,7 @@ Existing alternatives: Bristol City Council air quality web pages and the nation
 | 3. Web and mobile app | about £35,000 | about £8,000 | Developer time, app store fees, hosting, notifications, support |
 
 ### Risks
+
 | Risk | Impact | How to reduce it |
 |---|---|---|
 | Sensors go offline or data has gaps | Inaccurate or missing readings | Show "last updated" time and flag missing data |
